@@ -5,10 +5,16 @@ Este é um sistema básico de PetShop PetCO desenvolvido com HTML, CSS e JavaScr
 ## Tabela de Conteúdos
 
 - [Sobre o Projeto](#sobre-o-projeto)
-- [Instalação](#instalação)
-- [Uso](#uso)
+- [Funcionalidades do projeto](#funcionalidades)
+- [Instruções de Uso](#instruções-de-uso)
+- [Estrutura de Arquivos](#estrutura-de-arquivos)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
+- [Autor](#autor)
+
+## Sobre o Projeto
+
+O projeto PetCoX foi desenvolvido para a disciplina de Fundamentos de Sistemas Web da PUC/RS, foram empregadas todas as funcionalidades desenvolvidas em sala de aula.
+
 
 ## Funcionalidades
 

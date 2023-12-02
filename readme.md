@@ -4,8 +4,13 @@ Este é um sistema básico de PetShop PetCO desenvolvido com HTML, CSS e JavaScr
 
 ## Funcionalidades
 
+- [ ] Login e Cadastro de usuários
 - [ ] Lista de produtos disponíveis
+- [ ] Seleção de produtos da lista
 - [ ] Detalhes do produto selecionado
+- [ ] Adição dos produtos selecionados no carrinho de compras
+- [ ] Efetivação da compra e pagamento
+- [ ] Acompanhamento de entrega do pedido(rastreio)
 - [ ] Interação para agendar serviços
 - [ ] ...
 

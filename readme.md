@@ -2,6 +2,14 @@
 
 Este é um sistema básico de PetShop PetCO desenvolvido com HTML, CSS e JavaScript.
 
+## Tabela de Conteúdos
+
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Instalação](#instalação)
+- [Uso](#uso)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
+
 ## Funcionalidades
 
 - [ ] Login e Cadastro de usuários
